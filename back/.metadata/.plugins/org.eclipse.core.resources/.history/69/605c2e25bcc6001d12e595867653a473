@@ -1,0 +1,5 @@
+package com.example.project01.config;
+
+public class CorsConfig {
+
+}
